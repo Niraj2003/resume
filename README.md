@@ -51,18 +51,18 @@ _Jan 2024 - Feb 2024_
 
 ## Projects
 
-### Employee Management System
+### [Employee Management System](https://github.com/Niraj2003/EmployeeManagementSystem)
 _Spring Boot, ReactJS, MySQL_
 
 - Developed an Employee Management System utilizing Spring Boot for backend operations, React for frontend interface, and Microservices architecture for scalability.
 - Implemented robust functionalities including employee registration, attendance tracking, leave management, and performance evaluation.
 
-### Speech Therapy Assessment Application
+### [Speech Therapy Assessment Application](https://github.com/Niraj2003/Speech-Therapy-Application-Documentation)
 _React Native, Cloudinary, MySQL_
 
 - Developed a comprehensive Speech Therapy App using React Native for seamless cross-platform functionality.
 
-### Ecommerce Website
+### [Ecommerce Website](https://github.com/Niraj2003/EmployeeManagementSystem)
 _HTML, CSS, EJS, NodeJS, MongoDB_
 
 - Developed a fully functional ecommerce website with a user-friendly interface, enabling customers to browse and purchase products easily.
