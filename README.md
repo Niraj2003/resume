@@ -51,22 +51,25 @@ _Jan 2024 - Feb 2024_
 
 ## Projects
 
-### [Employee Management System](https://github.com/Niraj2003/EmployeeManagementSystem)
-_Spring Boot, ReactJS, MySQL_
 
-- Developed an Employee Management System utilizing Spring Boot for backend operations, React for frontend interface, and Microservices architecture for scalability.
-- Implemented robust functionalities including employee registration, attendance tracking, leave management, and performance evaluation.
+### {SpendiSmart](https://github.com/Niraj2003/spendismart)
+_Spring Boot, MySQL_
+
+- Proficiently developed SpendiSmart, a Spring Boot backend application facilitating user authentication and expense management via secure APIs.
+- Implemented features including user registration, login/logout functionality, and expense management, ensuring seamless user experience.
+- Designed API endpoints for adding expenses, viewing existing expenses, and categorizing expenses, enhancing organizational efficiency.
+
+### [SpamChecker](https://github.com/Niraj2003/spamChecker)
+_Django REST Framework_
+
+- Developed API endpoints for user registration, login, and spam marking, along with a search functionality for contacts, ensuring seamless interaction.
+- Implemented authentication mechanisms and documented endpoints for smooth communication, enhancing user experience and data security.
 
 ### [Speech Therapy Assessment Application](https://github.com/Niraj2003/Speech-Therapy-Application-Documentation)
 _React Native, Cloudinary, MySQL_
 
-- Developed a comprehensive Speech Therapy App using React Native for seamless cross-platform functionality.
-
-### [Ecommerce Website](https://github.com/Niraj2003/EmployeeManagementSystem)
-_HTML, CSS, EJS, NodeJS, MongoDB_
-
-- Developed a fully functional ecommerce website with a user-friendly interface, enabling customers to browse and purchase products easily.
-- Used a combination of EJS, HTML, CSS, and JavaScript for creating dynamic and interactive web pages.
+- Developed a web-based application for speech therapy sessions using Node.js, Express.js, and MySQL.
+- Implemented RESTful APIs for CRUD operations on categories, subcategories, cards, and assessments.
 
 ---
 
