@@ -52,7 +52,7 @@ _Jan 2024 - Feb 2024_
 ## Projects
 
 
-### {SpendiSmart](https://github.com/Niraj2003/spendismart)
+### [SpendiSmart](https://github.com/Niraj2003/spendismart)
 _Spring Boot, MySQL_
 
 - Proficiently developed SpendiSmart, a Spring Boot backend application facilitating user authentication and expense management via secure APIs.
