@@ -12,7 +12,7 @@
 
 **Vishwakarma Institute of Information Technology, Pune, MH, India**  
 _Affiliated to Savitribai Phule Pune University_  
-**B.Tech in Information Technology** | CGPA: 9.23/10 <br>
+**B.Tech in Information Technology** | CGPA: 9.27/10 <br>
 **Nov 2020 - May 2024**
 
 **Dr. J. K. Wani Jr. College, Dhule, MH, India**  
