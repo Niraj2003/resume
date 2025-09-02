@@ -29,15 +29,27 @@ _Secondary School Certificate_
 
 ## Programming Skills
 
-- **Languages**: C/C++, Java, JavaScript, Python, OOPS, SQL, NOSQL, HTML, CSS
-- **Technologies and Frameworks**: Spring Boot, ExpressJS, ReactJS, NodeJS
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Tools**: Git, Github, Jira, VS Code
-- **Course Framework**: Operating System, Computer Networks, DBMS, Data Structure Algorithms
+- **Programming Languages**: Java, Python, C/C++, SQL
+- **Frameworks**: Spring Boot, Node.js, ReactJS, Microservices, REST APIs, Apache Kafka
+- **AI/ML & GenAI**: Generative AI, LangChain, LangGraph, Hugging Face, Ollama, RAG Systems
+- **Databases & Search**: MySQL, NoSQL, OpenSearch, Elasticsearch
+- **DevOps & Tools**: Git, GitHub, Docker, Kubernetes, AWS EKS, Prometheus, Splunk
+
 
 ---
 
 ## Experience
+
+### S&P Global
+**Software Engineer - Full time**  
+_July 2024 - July 2025_
+
+- Built scalable Spring Boot application for processing 10K+ daily Kafka events into OpenSearch, reducing query latency by 25%.
+- Developed an enterprise-grade RAG system using LangChain, FastAPI, Ollama and OpenSearch enabling hybrid lexical + semantic search.
+- Optimized vector embeddings, chunking strategies and hybrid queries, boosting search accuracy by 15%.
+- Automated CI/CD pipelines with Docker, Kubernetes and GitHub Actions, integrating Prometheus & Splunk for monitoring, improving deployment efficiency by 20%.
+
+---
 
 ### NxtPe (Remote)
 **Software Engineer Intern - Full time**  
@@ -51,6 +63,11 @@ _Jan 2024 - Feb 2024_
 
 ## Projects
 
+### [Speech Therapy Assessment Application](https://github.com/Niraj2003/Speech-Therapy-Application-Documentation)
+_React Native, Cloudinary, MySQL_
+
+- Developed a web-based application for speech therapy sessions using Node.js, Express.js, and MySQL.
+- Implemented RESTful APIs for CRUD operations on categories, subcategories, cards, and assessments.
 
 ### [SpendiSmart](https://github.com/Niraj2003/spendismart)
 _Spring Boot, MySQL_
@@ -65,12 +82,6 @@ _Django REST Framework_
 - Developed API endpoints for user registration, login, and spam marking, along with a search functionality for contacts, ensuring seamless interaction.
 - Implemented authentication mechanisms and documented endpoints for smooth communication, enhancing user experience and data security.
 
-### [Speech Therapy Assessment Application](https://github.com/Niraj2003/Speech-Therapy-Application-Documentation)
-_React Native, Cloudinary, MySQL_
-
-- Developed a web-based application for speech therapy sessions using Node.js, Express.js, and MySQL.
-- Implemented RESTful APIs for CRUD operations on categories, subcategories, cards, and assessments.
-
 ---
 
 ## Accomplishments
@@ -80,6 +91,6 @@ _React Native, Cloudinary, MySQL_
 - **Competitive Programming**: Successfully solved over 500 problems on LeetCode and 300+ problems on competitive programming platforms like CodeChef, Codeforces, etc.
 - **Competitive Exam Performance**: Ranked 4018th in MHT-CET (top 4% of 100K candidates) and 93.61%ile in JEE (top 6% of 1.2M candidates).
 - **Coding Ninja IICC Contest**: Cleared round 1 (Rank 5428) and round 2 (Rank 1708) out of 89K+ participants.
-
+- Qualified **GATE 2024 (CS)** with a score of 342 among 1.23 lakh candidates.
 ---
 
