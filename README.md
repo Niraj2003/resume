@@ -42,7 +42,7 @@ _Secondary School Certificate_
 
 ### S&P Global
 **Software Engineer - Full time**  
-_July 2024 - July 2025_
+_July 2024 - Present_
 
 - Built scalable Spring Boot application for processing 10K+ daily Kafka events into OpenSearch, reducing query latency by 25%.
 - Developed an enterprise-grade RAG system using LangChain, FastAPI, Ollama and OpenSearch enabling hybrid lexical + semantic search.
